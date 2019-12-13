@@ -1,0 +1,41 @@
+body {
+	background-color:#012249;
+}
+
+#mainDiv {
+	width: 380px;
+	height: 240px;
+}
+#title{
+	margin-left: 30px;
+	color:#FFF;
+/* 	font-family: 'Microsoft YaHei Bold', 'Microsoft YaHei' */
+}
+#mainDiv table {
+	color:#FFF;
+}
+#mainDiv table img{
+	border: 1px solid;
+	width: 110px;
+}
+
+#errorMessage{
+	margin-top: 5px;
+	color:#FFD700;
+	font-size: 12px;
+}
+#mainDiv table td{
+	height: 50px;
+	font-size: 13px;
+	font-family: 'Microsoft YaHei Bold', 'Microsoft YaHei';
+}
+.button {
+	width: 70px;
+	height: 25px;
+	background-color: #2846c3;
+	border-radius: 5px;
+	border: none;
+	color: #FFF;
+	margin: 0 20px;
+	margin-right: 20px;
+} 

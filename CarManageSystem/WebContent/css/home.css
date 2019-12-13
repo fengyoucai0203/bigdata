@@ -1,0 +1,202 @@
+/*-------------------------------------------------------
+ All Rights Reserved, Copyright (C) 2013, Wuyeguo, Ltd.
+-------------------------------------------------------*/
+body { font:12px/1.2em Microsoft YaHei;}
+a,
+a:link { color:#000; text-decoration:none; outline:none;}
+a:hover,
+a:focus { text-decoration:none; color:#39f;}
+
+.pd3 { padding:3px;}
+.pd5 { padding:5px;}
+.pd10 { padding:10px;}
+
+label,
+button,
+input,
+select,
+textarea { font-size:12px; vertical-align: middle;}
+textarea { font-size:12px; vertical-align: middle;}
+
+input,
+button,
+select,
+textarea { font:12px/1.2em Microsoft YaHei;}
+
+select,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+input[type="radio"],
+input[type="checkbox"] { cursor: pointer;}
+
+.tabs-tool { border-top:0;}
+.text,
+.textarea { padding:3px; border:1px #95b8e7 solid; width:260px;}
+.text { height:14px; line-height:14px; }
+
+.header { height:60px; position:relative; z-index:0; overflow:hidden; border-bottom:1px #95b8e7 solid; background:url(../images/bg_header.jpg) bottom repeat-x;}
+.header-left { position:absolute; z-index:1; left:80px; top:0;}
+.header-left h1 { font:20px/20px Verdana; color:#fff;}
+.header-logo { position:absolute; z-index:1; left:15px; top:0;}
+.header-right { position:absolute; z-index:1; right:5px; top:0; color:#fff; text-align:right;}
+.header-right p { line-height:0.7em;}
+.header-right a { color:#fff; margin:0 5px;}
+
+.sidebar { width:160px;}
+.side-tree .tree-node { padding:3px 0px; }
+.side-tree a { display:block;}
+.side-tree .tree-node-selected { padding:2px 0; border:1px #fade23 solid;}
+
+.toolbar-button,
+.toolbar-search { padding:1px;height: 32px;border-bottom:1px #e1e1e1 solid}
+
+.footer { height:20px; padding:5px; text-align:center; overflow:hidden; background:#e0ecff;}
+
+.searchbox{
+    vertical-align: middle !important;
+    margin-left:3px;
+}
+#tables
+{
+    width: 1560px;
+    height: 660px;
+    margin-top:5px;
+}
+#statistics
+{
+    margin: 10px;
+    width: auto;
+    height: 350px;
+    border: #95B8E7 1px solid;
+}
+
+#beacon_statistics
+{
+    margin: 10px;
+    width: auto;
+    height: 350px;
+    border: #95B8E7 1px solid;
+}
+
+#flightstatistics
+{
+    margin: 10px;
+    width: auto;
+    height: 260px;
+    border: #95B8E7 1px solid;
+}
+
+#flightstatisticsn
+{
+    margin: 10px;
+    width: auto;
+    height: 260px;
+    border: #95B8E7 1px solid;
+}
+#flightAreastatistics
+{
+    margin: 10px;
+    width: auto;
+    height: 350px;
+    border: #95B8E7 1px solid;
+}
+#ufo_statistics
+{
+    margin: 10px;
+    width: auto;
+    height: 280px;
+    border: #95B8E7 1px solid;
+}
+#area_statistics
+{
+    margin: 10px;
+    width: auto;
+    height: 430px;
+    border: #95B8E7 1px solid;
+}
+#titles
+{
+    margin: 10px;
+    width: auto;
+    height: 50px;
+    border: #95B8E7 1px solid;
+}
+#titles > #spans
+{
+    position: absolute;
+    top: 120px;
+    left: 150px;
+    font-size: 20px;
+}
+#titles-search
+{
+    position: absolute;
+    top: 120px;
+}
+#flights-number
+{
+    position: absolute;
+    top: 120px;
+}
+#losttitles
+{
+    margin: 10px;
+    width: auto;
+    height: 50px;
+    border: #95B8E7 1px solid;
+}
+#losttitles > #lostspans
+{
+    position: absolute;
+    top: 120px;
+    left: 150px;
+    font-size: 20px;
+}
+#loststatistics
+{
+    margin: 10px;
+    width: auto;
+    height: 500px;
+    border: #95B8E7 1px solid;
+}
+#losttitles-search
+{
+    position: absolute;
+    top: 120px;
+}
+
+#inouttitles
+{
+    margin: 10px;
+    width: auto;
+    height: 50px;
+    border: #95B8E7 1px solid;
+}
+#inouttitles > #lostspans
+{
+    position: absolute;
+    top: 120px;
+    left: 150px;
+    font-size: 20px;
+}
+#inoutstatistics
+{
+    margin: 10px;
+    width: auto;
+    height: 500px;
+    border: #95B8E7 1px solid;
+}
+#inouttitles-search
+{
+    position: absolute;
+    top: 120px;
+}
+
+#indexs
+{
+    width: 1735px;
+    height: 850px;
+}
+

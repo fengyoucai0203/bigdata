@@ -1,0 +1,17 @@
+#mainconfig
+{
+    margin: 10px;
+    width: auto;
+    height: 800px;
+    position:relative;
+    top: 20px;
+
+}
+#mainbutton
+{
+    margin: 10px;
+    width: auto;
+    height: 50px;
+    position:relative;
+    top: 20px;
+}
